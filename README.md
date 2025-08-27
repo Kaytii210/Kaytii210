@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaytii210&label=Profile%20views&color=0e75b6&style=flat" alt="kaytii210" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaytii210" alt="kaytii210" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kaytii210" alt="Kaytii210" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Binary Exploitation aka Pwn**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Kaytii210/pwn](https://github.com/Kaytii210/pwn)
+- 👨‍💻 All of my projects are available at [pwn](https://github.com/Kaytii210/pwn)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
