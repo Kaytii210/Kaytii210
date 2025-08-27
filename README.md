@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects about Pwnable are available at [pwn](https://github.com/Kaytii210/pwn)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me in Discord: koikakhia2210 </h3>
 <p align="left">
 </p>
 
