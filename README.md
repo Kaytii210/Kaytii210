@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Binary Exploitation aka Pwn**
 
-- 👨‍💻 All of my projects are available at [pwn](https://github.com/Kaytii210/pwn)
+- 👨‍💻 All of my projects about Pwnable are available at [pwn](https://github.com/Kaytii210/pwn)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
