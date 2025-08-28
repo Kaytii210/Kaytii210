@@ -18,7 +18,7 @@
 <a href="https://https://hex-rays.com/ida-pro" target="_blank" rel="noreferrer"> <img src="./assets/ida.png" alt="ida" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<h3 align="left">🏆Achivement:</h3>
+<h3 align="left">🏆Achivements:</h3>
 
 - HCMUS CTF 2025 finalist
 
