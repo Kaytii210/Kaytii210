@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Binary Exploitation** aka **Pwn**
 
-- 👨‍💻 All of my projects are available at [pwn](https://github.com/Kaytii210/pwn)
+- 👨‍💻 All of my projects are available at [pwn](https://github.com/Kaytii210/Pwnable)
 
 <h3 align="left">Connect with me in Discord: @koikakhia2210</h3>
 <p align="left">
