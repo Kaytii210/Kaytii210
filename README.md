@@ -1,16 +1,11 @@
 <h1 align="center">Hi 👋, I'm KayTii</h1>
 <h3 align="center">A n00b pwn3r from 🇻🇳</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaytii210&label=Profile%20views&color=0e75b6&style=flat" alt="kaytii210" /> </p>
-
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🌱 I’m currently learning **Binary Exploitation aka Pwn**
 
 - 👨‍💻 All of my projects about Pwnable are available at [pwn](https://github.com/Kaytii210/pwn)
 
-<h3 align="left">Connect with me in Discord: koikakhia2210 </h3>
+<h3 align="left">Connect with me in Discord: @koikakhia2210 </h3>
 <p align="left">
 </p>
 
