@@ -22,7 +22,7 @@
 - HCMUS CTF 2025 finalist
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaytii210&show_icons=true&locale=en&layout=compact" height="200" alt="Top languages"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaytii210&show_icons=true&locale=en&layout=compact" height="200" alt="Top languages"/>
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=kaytii210&show_icons=true&locale=en" height="200" alt="GitHub stats"/>
 </div>
 
