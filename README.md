@@ -33,3 +33,5 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaytii210" alt="GitHub Streak"/>
 </div>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaytii210&theme=aura&margin-w=15&margin-h=15" alt="KayTii210" /></a> </p>
