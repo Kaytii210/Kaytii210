@@ -20,10 +20,6 @@
   <a href="https://hex-rays.com/ida-pro/" target="_blank" rel="noreferrer"><img src="./assets/ida.png" alt="IDA Pro" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
 </p>
-<h3 align="left">🏫K24-HCMUT
-<h3 align="left">🏆 Achievements:</h3>
-
-- HCMUS CTF 2025 finalist
 
 <div align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaytii210&show_icons=true&locale=en&layout=compact" height="180" alt="Top languages"/>
