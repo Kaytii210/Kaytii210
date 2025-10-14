@@ -7,9 +7,10 @@
 <h3 align="left">Connect with me on Discord: <code>@koikakhia2210</code></h3>
 
 <h3 align="left">🏫K24-HCMUT
-<h3 align="left">🏆 Achievements:</h3>
-
-- HCMUS CTF 2025 finalist
+<h3>🏆 Achievements:</h3>
+<ul>
+  <li>HCMUS CTF 2025 finalist</li>
+</ul>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
