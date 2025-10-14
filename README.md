@@ -9,7 +9,7 @@
 <h3 align="left">🏫K24-HCMUT
 <h3>🏆 Achievements:</h3>
 <ul>
-  <li>HCMUS CTF 2025 finalist</li>
+  <li>HCMUS CTF 2025 Finalist</li>
 </ul>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
